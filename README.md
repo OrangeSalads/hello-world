@@ -1,2 +1,3 @@
 # hello-world
-FinallyLookingAtGit
+finally looking at Git
+first edit of a branch
